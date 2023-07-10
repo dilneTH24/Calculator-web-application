@@ -19,3 +19,4 @@ Click on the equals (=) button to display the result.
 To perform another calculation, click on the clear (C) button.
 
 # License
+This calculator project is licensed under the MIT License. Feel free to use and modify the code as per your needs.
